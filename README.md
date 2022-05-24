@@ -1,8 +1,9 @@
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Fabrízio, welcome to my profile!
-=================================================
 
-Full-Stack Web Developer
-------------------------
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Fabrízio, welcome to my profile!
+<img src="https://media0.giphy.com/media/EC1gl2A5oplKMAorkT/giphy.gif?cid=790b7611fc1642110968f82c50b8e163be74df07aee7c1e8&rid=giphy.gif&ct=g" width="1600px" height="1px">
+
+## Full-Stack Web Developer
+<img src="https://media0.giphy.com/media/EC1gl2A5oplKMAorkT/giphy.gif?cid=790b7611fc1642110968f82c50b8e163be74df07aee7c1e8&rid=giphy.gif&ct=g" width="1600px" height="1px">
 
 * 📍 São Paulo, Brazil
 * 💻 Student at Le Wagon (9-week coding bootcamp) 
