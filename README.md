@@ -1,11 +1,9 @@
 <h1>
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Fabrízio, welcome to my profile! <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp" width="35px">
-  <img src="https://media0.giphy.com/media/EC1gl2A5oplKMAorkT/giphy.gif?cid=790b7611fc1642110968f82c50b8e163be74df07aee7c1e8&rid=giphy.gif&ct=g" alt="profile by fabrizio saullo" width="1600px" height="1px">
+  Hi! My name is Fabrízio, welcome to my profile! <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp" width="35px">
 </h1>
 
 <h2>
   Full-Stack Web Developer 
-  <img src="https://media0.giphy.com/media/EC1gl2A5oplKMAorkT/giphy.gif?cid=790b7611fc1642110968f82c50b8e163be74df07aee7c1e8&rid=giphy.gif&ct=g" width="1600px" height="1px" alt="profile by fabrizio saullo">
 </h2>
   
 * 📍 São Paulo, Brazil
