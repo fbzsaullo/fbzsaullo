@@ -1,11 +1,14 @@
 <h1>
-  Hi! My name is Fabrízio, welcome to my profile! <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp" width="35px">
+  Hi <img src="https://i.imgur.com/eY1Pc6V.gif" width="25px"> My name is Fabrízio, welcome to my profile! <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp" width="35px">
+  <img src="https://i.imgur.com/Km6SYjp.gif" alt="profile by fabrizio saullo" width="1600px" height="1px">
 </h1>
 
 <h2>
   Full-Stack Web Developer 
+  <img src="https://i.imgur.com/Km6SYjp.gif" width="1600px" height="1px" alt="profile by fabrizio saullo">
 </h2>
   
+### Info
 * 📍 São Paulo, Brazil
 * 💻 Student at Le Wagon (9-week coding bootcamp) 
 * 📩 Contact: fabriziodsaullo@gmail.com
