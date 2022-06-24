@@ -59,7 +59,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fbzsaullo&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&background=141414&border=FFFFFF&stroke=FFFFFF&ring=DD5315&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
  
 <a href="http://www.github.com/fbzsaullo"><img src="https://activity-graph.herokuapp.com/graph?username=fbzsaullo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-  
-<a href="https://github.com/fbzsaullo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbzsaullo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 </h3>
