@@ -1,11 +1,11 @@
 <h2 align="center">
   Hi <img src="https://i.imgur.com/eY1Pc6V.gif" width="25px"> My name is Fabrízio, welcome to my profile! <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp" width="35px">
-  <img src="https://i.imgur.com/Km6SYjp.gif" alt="profile by fabrizio saullo" width="1600px" height="1px">
+  <img src="https://i.imgur.com/Km6SYjp.gif" alt="profile by fabrizio saullo" width="100%" height="1px">
 </h2>
 
 <h3 align="center">
   Full-Stack Web Developer 
-  <img src="https://i.imgur.com/Km6SYjp.gif" width="1600px" height="1px" alt="profile by fabrizio saullo">
+  <img src="https://i.imgur.com/Km6SYjp.gif" width="100%" height="1px" alt="profile by fabrizio saullo">
 </h3>
   
 <h4 align="center">Info</h4>
