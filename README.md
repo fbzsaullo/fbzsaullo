@@ -14,7 +14,7 @@
 <p align="center">📩 Contact: fabriziodsaullo@gmail.com </p>
 
 <h4 align="center">Skills</h4>
-<p align="center">
+<p align="center" alt="profile by fabrizio saullo">
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
   </a>
