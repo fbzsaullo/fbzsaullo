@@ -152,12 +152,39 @@ def card_small(t, tag, title, desc, tags, aria):
     return svg(w, h, body, t, aria)
 
 
+# ---------------------------------------------------------------- stack
+STACK = [
+    ("Back-end", ["Ruby on Rails", "Python", "FastAPI", "Java"]),
+    ("Dados e infraestrutura", ["PostgreSQL", "Redis", "Docker", "AWS"]),
+    ("Front-end", ["React", "TypeScript", "Tailwind CSS"]),
+    ("IA e automação", ["LLMs", "n8n", "scikit-learn"]),
+    ("Desktop", ["Tauri", "Rust"]),
+    ("Ferramentas", ["Git", "Linux", "CI/CD"]),
+]
+
+
+def card_stack(t):
+    w, h = 1200, 330
+    groups = []
+    for i, (label, items) in enumerate(STACK):
+        x = 48 if i % 2 == 0 else 624
+        y = 112 + (i // 2) * 76
+        groups.append(f'  <text x="{x}" y="{y}" font-family="{MONO}" font-size="15" fill="{t["muted"]}">{esc(label)}</text>')
+        groups.append(pills(x, y + 12, items, t))
+    body = f"""  <rect x="760" y="0" width="440" height="{h}" fill="url(#dots)" mask="url(#fadeMask)"/>
+{eyebrow(48, 64, "STACK", t)}
+  <line x1="600" y1="92" x2="600" y2="{h - 36}" stroke="{t['border']}"/>
+{chr(10).join(groups)}"""
+    return svg(w, h, body, t, "Stack: " + "; ".join(f"{l}: {', '.join(i)}" for l, i in STACK))
+
+
 def main():
     OUT.mkdir(exist_ok=True)
     for name, t in THEMES.items():
         files = {
             "header": header(t),
             "myaitoolkit": card_myaitoolkit(t),
+            "stack": card_stack(t),
             "stratify": card_small(
                 t, "IA · GAMES", "Stratify",
                 "Coach de desempenho em jogos com IA, com análise de partida e orientação por voz.",

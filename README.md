@@ -33,14 +33,12 @@
   </a>
 </p>
 
-<br />
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ruby,rails,python,fastapi,react,ts,tailwind,postgres,redis,docker,aws,tauri&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ruby,rails,python,fastapi,react,ts,tailwind,postgres,redis,docker,aws,tauri&theme=light" />
-    <img src="https://skillicons.dev/icons?i=ruby,rails,python,fastapi,react,ts,tailwind,postgres,redis,docker,aws,tauri&theme=dark" width="70%" alt="Ruby, Rails, Python, FastAPI, React, TypeScript, Tailwind CSS, PostgreSQL, Redis, Docker, AWS, Tauri" />
-  </picture>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
+  <img src="assets/stack-dark.svg" width="100%" alt="Stack — Back-end: Ruby on Rails, Python, FastAPI, Java. Front-end: React, TypeScript, Tailwind CSS. Dados e infraestrutura: PostgreSQL, Redis, Docker, AWS. IA e automação: LLMs, n8n, scikit-learn. Desktop: Tauri, Rust. Ferramentas: Git, Linux, CI/CD." />
+</picture>
 </p>
 
 <br />
