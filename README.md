@@ -1,41 +1,52 @@
-<h2 align="center">
-  Hi <img src="https://i.imgur.com/eY1Pc6V.gif" width="25px">  
-  I'm Fabrízio Saullo, welcome to my profile!  
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp" width="35px">
-  <img src="https://i.imgur.com/Km6SYjp.gif" alt="profile by Fabrizio Saullo" width="100%" height="1px">
-</h2>
+<a href="https://fbz.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+    <img src="assets/header-dark.svg" width="100%" alt="Fabrízio Saullo — Full-stack developer. Sistemas web, aplicações desktop e automações com IA." />
+  </picture>
+</a>
 
-<h3 align="center">
-  Full-Stack Web Developer (Ruby on Rails)
-  <img src="https://i.imgur.com/Km6SYjp.gif" width="100%" height="1px" alt="profile divider">
-</h3>
-  
-<h4 align="center">About Me</h4>
+<br />
 
-<p align="center">
-  📍 São Paulo, Brazil <br>
-  💻 Full-Stack Web Developer focused on Ruby on Rails <br>
-  📩 Contact: <a href="mailto:fabriziodsaullo@gmail.com">fabriziodsaullo@gmail.com</a>
+<a href="https://github.com/fbzsaullo/MyAiToolKit">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/myaitoolkit-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/myaitoolkit-light.svg" />
+    <img src="assets/myaitoolkit-dark.svg" width="100%" alt="MyAiToolKit — kit open source de skills para assistentes de IA, baseado em Spec-Driven Development" />
+  </picture>
+</a>
+
+<p>
+  <a href="https://github.com/fbzsaullo?tab=repositories&q=stratify">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/stratify-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/stratify-light.svg" />
+      <img src="assets/stratify-dark.svg" width="49%" alt="Stratify — coach de desempenho em jogos com IA" />
+    </picture>
+  </a>
+  <a href="https://github.com/fbzsaullo/StructraBuilds">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/structrabuilds-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/structrabuilds-light.svg" />
+      <img src="assets/structrabuilds-dark.svg" width="49%" alt="StructraBuilds — plugin Paper que transforma construções em itens" />
+    </picture>
+  </a>
 </p>
 
-<h4 align="center">Socials</h4>
+<br />
 
 <p align="center">
-  <a href="https://github.com/fbzsaullo" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.instagram.com/fabrizio_saullo" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/fabriziosaullo" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ruby,rails,python,fastapi,react,ts,tailwind,postgres,redis,docker,aws,tauri&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ruby,rails,python,fastapi,react,ts,tailwind,postgres,redis,docker,aws,tauri&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,python,fastapi,react,ts,tailwind,postgres,redis,docker,aws,tauri&theme=dark" width="70%" alt="Ruby, Rails, Python, FastAPI, React, TypeScript, Tailwind CSS, PostgreSQL, Redis, Docker, AWS, Tauri" />
+  </picture>
 </p>
 
-<h4 align="center">GitHub Stats</h4>
+<br />
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=fbzsaullo&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&background=141414&border=FFFFFF&stroke=FFFFFF&ring=DD5315&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-  </a>
+  <a href="https://fbz.dev"><img src="https://img.shields.io/badge/fbz.dev-5a67d8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="fbz.dev" /></a>
+  <a href="https://www.linkedin.com/in/fabriziosaullo"><img src="https://img.shields.io/badge/LinkedIn-6a5acd?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contato@fbz.dev"><img src="https://img.shields.io/badge/contato@fbz.dev-764ba2?style=for-the-badge&logo=maildotru&logoColor=white" alt="contato@fbz.dev" /></a>
 </p>

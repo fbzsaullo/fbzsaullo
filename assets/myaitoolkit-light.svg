@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="MyAiToolKit — kit open source de skills para IA baseado em Spec-Driven Development">
+<title>MyAiToolKit — kit open source de skills para IA baseado em Spec-Driven Development</title>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#5a67d8"/><stop offset="1" stop-color="#764ba2"/>
+  </linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.4" fill="#d0d7de"/>
+  </pattern>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity="1"/>
+  </linearGradient>
+  <mask id="fadeMask"><rect width="1200" height="300" fill="url(#fade)"/></mask>
+  <clipPath id="card"><rect x="1" y="1" width="1198" height="298" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+  <rect width="1200" height="300" fill="#ffffff"/>
+  <rect x="48" y="52" width="10" height="10" fill="url(#accent)"/>
+  <text x="70" y="63" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" letter-spacing="2.4" fill="#59636e">PROJETO EM DESTAQUE</text>
+  <g transform="translate(48 65.43) scale(0.3084)"><g fill="#1f2328"><path d="M0 179.8 L0 76.2 L17.54 76.2 L50.32 132.98 L83.1 76.2 L100.64 76.2 L100.64 179.8 L84.36 179.8 L84.36 106.58 L50.32 165.54 L16.28 106.58 L16.28 179.8 Z"/><path d="M130.74 102.84 L157.15 177.07 L141.81 182.53 L113.46 102.84 Z"/><path d="M185.5 102.84 L147.59 209.4 L130.31 209.4 L168.22 102.84 Z"/><path d="M191.8 179.8 L219.56 76.2 L237.89 76.2 L265.64 179.8 L248.12 179.8 L228.72 107.43 L209.33 179.8 Z"/><path d="M211.62 152.86 L245.82 152.86 L245.82 138.54 L211.62 138.54 Z"/><path d="M285.77 179.8 L302.05 179.8 L302.05 102.84 L285.77 102.84 Z"/><path d="M285.77 92.48 L302.05 92.48 L302.05 76.2 L285.77 76.2 Z"/><path d="M313.89 92.48 L399.73 92.48 L399.73 76.2 L313.89 76.2 Z"/><path d="M348.67 179.8 L364.95 179.8 L364.95 91.74 L348.67 91.74 Z"/><path d="M572.89 179.8 L589.17 179.8 L589.17 73.24 L572.89 73.24 Z"/><path d="M606.93 179.8 L623.21 179.8 L623.21 76.2 L606.93 76.2 Z"/><path d="M615.07 144.58 L615.07 133.06 L671.93 76.2 L694.96 76.2 L620.82 150.33 Z"/><path d="M639.41 123.79 L695.42 179.8 L671.47 179.8 L627.44 135.76 Z"/><path d="M699.8 179.8 L716.08 179.8 L716.08 102.84 L699.8 102.84 Z"/><path d="M699.8 92.48 L716.08 92.48 L716.08 76.2 L699.8 76.2 Z"/><path d="M742.72 179.8 L759 179.8 L759 77.68 L742.72 77.68 Z"/><path d="M732.36 119.12 L778.24 119.12 L778.24 102.84 L732.36 102.84 Z"/><path d="M389.37 141.32 A39.96 39.96 0 1 1 469.29 141.32 A39.96 39.96 0 1 1 389.37 141.32 Z M405.97 141.32 A23.35 23.35 0 1 0 452.68 141.32 A23.35 23.35 0 1 0 405.97 141.32 Z" fill-rule="evenodd"/><path d="M479.65 141.32 A39.96 39.96 0 1 1 559.57 141.32 A39.96 39.96 0 1 1 479.65 141.32 Z M496.25 141.32 A23.35 23.35 0 1 0 542.96 141.32 A23.35 23.35 0 1 0 496.25 141.32 Z" fill-rule="evenodd"/></g></g>
+  <text x="48" y="168.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#59636e">Kit open source de skills para assistentes de IA de</text>
+  <text x="48" y="198.4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#59636e">programação, guiado por Spec-Driven Development.</text>
+  <rect x="48.0" y="234" width="137.1" height="34" rx="17.0" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="116.6" y="256.8" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#59636e">Claude Code</text>
+  <rect x="195.1" y="234" width="77.6" height="34" rx="17.0" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="233.9" y="256.8" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#59636e">Codex</text>
+  <rect x="282.7" y="234" width="57.8" height="34" rx="17.0" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="311.6" y="256.8" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#59636e">SDD</text>
+  <rect x="350.5" y="234" width="57.8" height="34" rx="17.0" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="379.4" y="256.8" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#59636e">MIT</text>
+  <rect x="700" y="64" width="456" height="172" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="728" y="104" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#59636e"><tspan fill="#1f2328">/sdd-start</tspan>  →  pipeline</text>
+  <rect x="724.0" y="144" width="16" height="16" fill="#1f2328" stroke="#1f2328" stroke-width="2.2"/>
+  <text x="732.0" y="194" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#1f2328">Arquitetura</text>
+  <line x1="746.0" y1="152" x2="816.0" y2="152" stroke="#d0d7de" stroke-width="2.2" stroke-dasharray="0"/>
+  <rect x="822.0" y="144" width="16" height="16" fill="#1f2328" stroke="#1f2328" stroke-width="2.2"/>
+  <text x="830.0" y="194" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#1f2328">PRD</text>
+  <line x1="844.0" y1="152" x2="914.0" y2="152" stroke="#d0d7de" stroke-width="2.2" stroke-dasharray="0"/>
+  <rect x="920.0" y="144" width="16" height="16" fill="#1f2328" stroke="#1f2328" stroke-width="2.2"/>
+  <text x="928.0" y="194" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#1f2328">Plano</text>
+  <line x1="942.0" y1="152" x2="1012.0" y2="152" stroke="#d0d7de" stroke-width="2.2" stroke-dasharray="5 5"/>
+  <rect x="1018.0" y="144" width="16" height="16" fill="#f6f8fa" stroke="#1f2328" stroke-width="2.2"/>
+  <text x="1026.0" y="194" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#59636e">Execução</text>
+  <line x1="1040.0" y1="152" x2="1110.0" y2="152" stroke="#d0d7de" stroke-width="2.2" stroke-dasharray="5 5"/>
+  <rect x="1116.0" y="144" width="16" height="16" fill="#f6f8fa" stroke="#1f2328" stroke-width="2.2"/>
+  <text x="1124.0" y="194" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#59636e">Review</text>
+  <rect x="0" y="0" width="1200" height="3" fill="url(#accent)"/>
+</g>
+<rect x="1" y="1" width="1198" height="298" rx="14" fill="none" stroke="#d0d7de" stroke-width="1.2"/>
+</svg>
